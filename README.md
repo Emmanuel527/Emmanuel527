@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Arowoselu</h1>
-<h3 align="center">A backend developer currently in my senior year of college.</h3>
+<h3 align="center">A JavaScript developer currently in my senior year of college.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel527&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel527" /> </p>
 
